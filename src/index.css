@@ -4,3 +4,8 @@
   background-color: #161618;
   color: #ECEBED;
 }
+
+@theme{
+  --color-primary: #161618;
+  --color-secondary: #ECEBED;
+}

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-
 export const Cursor = () => {
 
   const [position, setPosition] = useState({x: 0, y:0})
@@ -20,6 +19,7 @@ export const Cursor = () => {
       left: position.x - 64,
       top: position.y - 64,
     }}
+
   />
   )
 }
