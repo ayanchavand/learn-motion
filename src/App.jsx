@@ -26,7 +26,7 @@ function App() {
         >
            Small bold letter for less impact
           </motion.h1>
-          <motion.Button>THIS</motion.Button>
+          
         <Cursor></Cursor>
       </div>
     </>
